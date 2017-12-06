@@ -1,0 +1,215 @@
+C:\VSProjects\Packages\OpeningHours\OriginalStyle.OpeningHours.Core\bin\Debug\AutoMapper.Net4.dll
+C:\VSProjects\Packages\OpeningHours\OriginalStyle.OpeningHours.Core\bin\Debug\OriginalStyle.OpeningHours.Core.dll.config
+C:\VSProjects\Packages\OpeningHours\OriginalStyle.OpeningHours.Core\bin\Debug\OriginalStyle.OpeningHours.Core.dll
+C:\VSProjects\Packages\OpeningHours\OriginalStyle.OpeningHours.Core\bin\Debug\OriginalStyle.OpeningHours.Core.pdb
+C:\VSProjects\Packages\OpeningHours\OriginalStyle.OpeningHours.Core\bin\Debug\AutoMapper.dll
+C:\VSProjects\Packages\OpeningHours\OriginalStyle.OpeningHours.Core\bin\Debug\businesslogic.dll
+C:\VSProjects\Packages\OpeningHours\OriginalStyle.OpeningHours.Core\bin\Debug\ClientDependency.Core.dll
+C:\VSProjects\Packages\OpeningHours\OriginalStyle.OpeningHours.Core\bin\Debug\ClientDependency.Core.Mvc.dll
+C:\VSProjects\Packages\OpeningHours\OriginalStyle.OpeningHours.Core\bin\Debug\cms.dll
+C:\VSProjects\Packages\OpeningHours\OriginalStyle.OpeningHours.Core\bin\Debug\controls.dll
+C:\VSProjects\Packages\OpeningHours\OriginalStyle.OpeningHours.Core\bin\Debug\Examine.dll
+C:\VSProjects\Packages\OpeningHours\OriginalStyle.OpeningHours.Core\bin\Debug\HtmlAgilityPack.dll
+C:\VSProjects\Packages\OpeningHours\OriginalStyle.OpeningHours.Core\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\VSProjects\Packages\OpeningHours\OriginalStyle.OpeningHours.Core\bin\Debug\ImageProcessor.dll
+C:\VSProjects\Packages\OpeningHours\OriginalStyle.OpeningHours.Core\bin\Debug\ImageProcessor.Web.dll
+C:\VSProjects\Packages\OpeningHours\OriginalStyle.OpeningHours.Core\bin\Debug\interfaces.dll
+C:\VSProjects\Packages\OpeningHours\OriginalStyle.OpeningHours.Core\bin\Debug\Log4Net.Async.dll
+C:\VSProjects\Packages\OpeningHours\OriginalStyle.OpeningHours.Core\bin\Debug\log4net.dll
+C:\VSProjects\Packages\OpeningHours\OriginalStyle.OpeningHours.Core\bin\Debug\Lucene.Net.dll
+C:\VSProjects\Packages\OpeningHours\OriginalStyle.OpeningHours.Core\bin\Debug\MarkdownSharp.dll
+C:\VSProjects\Packages\OpeningHours\OriginalStyle.OpeningHours.Core\bin\Debug\Microsoft.ApplicationBlocks.Data.dll
+C:\VSProjects\Packages\OpeningHours\OriginalStyle.OpeningHours.Core\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\VSProjects\Packages\OpeningHours\OriginalStyle.OpeningHours.Core\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+C:\VSProjects\Packages\OpeningHours\OriginalStyle.OpeningHours.Core\bin\Debug\Microsoft.AspNet.SignalR.Core.dll
+C:\VSProjects\Packages\OpeningHours\OriginalStyle.OpeningHours.Core\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+C:\VSProjects\Packages\OpeningHours\OriginalStyle.OpeningHours.Core\bin\Debug\Microsoft.Owin.dll
+C:\VSProjects\Packages\OpeningHours\OriginalStyle.OpeningHours.Core\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+C:\VSProjects\Packages\OpeningHours\OriginalStyle.OpeningHours.Core\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+C:\VSProjects\Packages\OpeningHours\OriginalStyle.OpeningHours.Core\bin\Debug\Microsoft.Owin.Security.dll
+C:\VSProjects\Packages\OpeningHours\OriginalStyle.OpeningHours.Core\bin\Debug\Microsoft.Owin.Security.OAuth.dll
+C:\VSProjects\Packages\OpeningHours\OriginalStyle.OpeningHours.Core\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\VSProjects\Packages\OpeningHours\OriginalStyle.OpeningHours.Core\bin\Debug\MiniProfiler.dll
+C:\VSProjects\Packages\OpeningHours\OriginalStyle.OpeningHours.Core\bin\Debug\MySql.Data.dll
+C:\VSProjects\Packages\OpeningHours\OriginalStyle.OpeningHours.Core\bin\Debug\Newtonsoft.Json.dll
+C:\VSProjects\Packages\OpeningHours\OriginalStyle.OpeningHours.Core\bin\Debug\Owin.dll
+C:\VSProjects\Packages\OpeningHours\OriginalStyle.OpeningHours.Core\bin\Debug\Semver.dll
+C:\VSProjects\Packages\OpeningHours\OriginalStyle.OpeningHours.Core\bin\Debug\SQLCE4Umbraco.dll
+C:\VSProjects\Packages\OpeningHours\OriginalStyle.OpeningHours.Core\bin\Debug\System.Data.SqlServerCe.dll
+C:\VSProjects\Packages\OpeningHours\OriginalStyle.OpeningHours.Core\bin\Debug\System.Data.SqlServerCe.Entity.dll
+C:\VSProjects\Packages\OpeningHours\OriginalStyle.OpeningHours.Core\bin\Debug\System.Net.Http.Formatting.dll
+C:\VSProjects\Packages\OpeningHours\OriginalStyle.OpeningHours.Core\bin\Debug\System.Threading.Tasks.Dataflow.dll
+C:\VSProjects\Packages\OpeningHours\OriginalStyle.OpeningHours.Core\bin\Debug\System.Web.Helpers.dll
+C:\VSProjects\Packages\OpeningHours\OriginalStyle.OpeningHours.Core\bin\Debug\System.Web.Http.dll
+C:\VSProjects\Packages\OpeningHours\OriginalStyle.OpeningHours.Core\bin\Debug\System.Web.Http.WebHost.dll
+C:\VSProjects\Packages\OpeningHours\OriginalStyle.OpeningHours.Core\bin\Debug\System.Web.Mvc.dll
+C:\VSProjects\Packages\OpeningHours\OriginalStyle.OpeningHours.Core\bin\Debug\System.Web.Razor.dll
+C:\VSProjects\Packages\OpeningHours\OriginalStyle.OpeningHours.Core\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\VSProjects\Packages\OpeningHours\OriginalStyle.OpeningHours.Core\bin\Debug\System.Web.WebPages.dll
+C:\VSProjects\Packages\OpeningHours\OriginalStyle.OpeningHours.Core\bin\Debug\System.Web.WebPages.Razor.dll
+C:\VSProjects\Packages\OpeningHours\OriginalStyle.OpeningHours.Core\bin\Debug\TidyNet.dll
+C:\VSProjects\Packages\OpeningHours\OriginalStyle.OpeningHours.Core\bin\Debug\Umbraco.Core.dll
+C:\VSProjects\Packages\OpeningHours\OriginalStyle.OpeningHours.Core\bin\Debug\umbraco.DataLayer.dll
+C:\VSProjects\Packages\OpeningHours\OriginalStyle.OpeningHours.Core\bin\Debug\umbraco.dll
+C:\VSProjects\Packages\OpeningHours\OriginalStyle.OpeningHours.Core\bin\Debug\umbraco.editorControls.dll
+C:\VSProjects\Packages\OpeningHours\OriginalStyle.OpeningHours.Core\bin\Debug\umbraco.MacroEngines.dll
+C:\VSProjects\Packages\OpeningHours\OriginalStyle.OpeningHours.Core\bin\Debug\umbraco.providers.dll
+C:\VSProjects\Packages\OpeningHours\OriginalStyle.OpeningHours.Core\bin\Debug\Umbraco.Web.UI.dll
+C:\VSProjects\Packages\OpeningHours\OriginalStyle.OpeningHours.Core\bin\Debug\UmbracoExamine.dll
+C:\VSProjects\Packages\OpeningHours\OriginalStyle.OpeningHours.Core\bin\Debug\AutoMapper.pdb
+C:\VSProjects\Packages\OpeningHours\OriginalStyle.OpeningHours.Core\bin\Debug\AutoMapper.xml
+C:\VSProjects\Packages\OpeningHours\OriginalStyle.OpeningHours.Core\bin\Debug\AutoMapper.Net4.pdb
+C:\VSProjects\Packages\OpeningHours\OriginalStyle.OpeningHours.Core\bin\Debug\businesslogic.xml
+C:\VSProjects\Packages\OpeningHours\OriginalStyle.OpeningHours.Core\bin\Debug\ClientDependency.Core.pdb
+C:\VSProjects\Packages\OpeningHours\OriginalStyle.OpeningHours.Core\bin\Debug\ClientDependency.Core.Mvc.pdb
+C:\VSProjects\Packages\OpeningHours\OriginalStyle.OpeningHours.Core\bin\Debug\cms.xml
+C:\VSProjects\Packages\OpeningHours\OriginalStyle.OpeningHours.Core\bin\Debug\controls.xml
+C:\VSProjects\Packages\OpeningHours\OriginalStyle.OpeningHours.Core\bin\Debug\Examine.pdb
+C:\VSProjects\Packages\OpeningHours\OriginalStyle.OpeningHours.Core\bin\Debug\HtmlAgilityPack.pdb
+C:\VSProjects\Packages\OpeningHours\OriginalStyle.OpeningHours.Core\bin\Debug\HtmlAgilityPack.xml
+C:\VSProjects\Packages\OpeningHours\OriginalStyle.OpeningHours.Core\bin\Debug\ImageProcessor.xml
+C:\VSProjects\Packages\OpeningHours\OriginalStyle.OpeningHours.Core\bin\Debug\ImageProcessor.Web.xml
+C:\VSProjects\Packages\OpeningHours\OriginalStyle.OpeningHours.Core\bin\Debug\interfaces.xml
+C:\VSProjects\Packages\OpeningHours\OriginalStyle.OpeningHours.Core\bin\Debug\Lucene.Net.xml
+C:\VSProjects\Packages\OpeningHours\OriginalStyle.OpeningHours.Core\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\VSProjects\Packages\OpeningHours\OriginalStyle.OpeningHours.Core\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+C:\VSProjects\Packages\OpeningHours\OriginalStyle.OpeningHours.Core\bin\Debug\Microsoft.AspNet.SignalR.Core.xml
+C:\VSProjects\Packages\OpeningHours\OriginalStyle.OpeningHours.Core\bin\Debug\Microsoft.IO.RecyclableMemoryStream.pdb
+C:\VSProjects\Packages\OpeningHours\OriginalStyle.OpeningHours.Core\bin\Debug\Microsoft.Owin.xml
+C:\VSProjects\Packages\OpeningHours\OriginalStyle.OpeningHours.Core\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+C:\VSProjects\Packages\OpeningHours\OriginalStyle.OpeningHours.Core\bin\Debug\Microsoft.Owin.Security.xml
+C:\VSProjects\Packages\OpeningHours\OriginalStyle.OpeningHours.Core\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+C:\VSProjects\Packages\OpeningHours\OriginalStyle.OpeningHours.Core\bin\Debug\Microsoft.Owin.Security.OAuth.xml
+C:\VSProjects\Packages\OpeningHours\OriginalStyle.OpeningHours.Core\bin\Debug\MiniProfiler.pdb
+C:\VSProjects\Packages\OpeningHours\OriginalStyle.OpeningHours.Core\bin\Debug\MiniProfiler.xml
+C:\VSProjects\Packages\OpeningHours\OriginalStyle.OpeningHours.Core\bin\Debug\Newtonsoft.Json.xml
+C:\VSProjects\Packages\OpeningHours\OriginalStyle.OpeningHours.Core\bin\Debug\SQLCE4Umbraco.xml
+C:\VSProjects\Packages\OpeningHours\OriginalStyle.OpeningHours.Core\bin\Debug\System.Net.Http.Formatting.xml
+C:\VSProjects\Packages\OpeningHours\OriginalStyle.OpeningHours.Core\bin\Debug\System.Threading.Tasks.Dataflow.xml
+C:\VSProjects\Packages\OpeningHours\OriginalStyle.OpeningHours.Core\bin\Debug\System.Web.Helpers.xml
+C:\VSProjects\Packages\OpeningHours\OriginalStyle.OpeningHours.Core\bin\Debug\System.Web.Http.xml
+C:\VSProjects\Packages\OpeningHours\OriginalStyle.OpeningHours.Core\bin\Debug\System.Web.Http.WebHost.xml
+C:\VSProjects\Packages\OpeningHours\OriginalStyle.OpeningHours.Core\bin\Debug\System.Web.Mvc.xml
+C:\VSProjects\Packages\OpeningHours\OriginalStyle.OpeningHours.Core\bin\Debug\System.Web.Razor.xml
+C:\VSProjects\Packages\OpeningHours\OriginalStyle.OpeningHours.Core\bin\Debug\System.Web.WebPages.xml
+C:\VSProjects\Packages\OpeningHours\OriginalStyle.OpeningHours.Core\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\VSProjects\Packages\OpeningHours\OriginalStyle.OpeningHours.Core\bin\Debug\System.Web.WebPages.Razor.xml
+C:\VSProjects\Packages\OpeningHours\OriginalStyle.OpeningHours.Core\bin\Debug\umbraco.xml
+C:\VSProjects\Packages\OpeningHours\OriginalStyle.OpeningHours.Core\bin\Debug\Umbraco.Core.xml
+C:\VSProjects\Packages\OpeningHours\OriginalStyle.OpeningHours.Core\bin\Debug\umbraco.DataLayer.xml
+C:\VSProjects\Packages\OpeningHours\OriginalStyle.OpeningHours.Core\bin\Debug\umbraco.editorControls.xml
+C:\VSProjects\Packages\OpeningHours\OriginalStyle.OpeningHours.Core\bin\Debug\umbraco.MacroEngines.xml
+C:\VSProjects\Packages\OpeningHours\OriginalStyle.OpeningHours.Core\bin\Debug\umbraco.providers.xml
+C:\VSProjects\Packages\OpeningHours\OriginalStyle.OpeningHours.Core\bin\Debug\Umbraco.Web.UI.xml
+C:\VSProjects\Packages\OpeningHours\OriginalStyle.OpeningHours.Core\bin\Debug\UmbracoExamine.xml
+C:\VSProjects\Packages\OpeningHours\OriginalStyle.OpeningHours.Core\obj\Debug\OriginalStyle.OpeningHours.Core.csprojResolveAssemblyReference.cache
+C:\VSProjects\Packages\OpeningHours\OriginalStyle.OpeningHours.Core\obj\Debug\OriginalStyle.OpeningHours.Core.dll
+C:\VSProjects\Packages\OpeningHours\OriginalStyle.OpeningHours.Core\obj\Debug\OriginalStyle.OpeningHours.Core.pdb
+C:\Projects\Opening Hours\OriginalStyle.OpeningHours.Core\bin\Debug\AutoMapper.Net4.dll
+C:\Projects\Opening Hours\OriginalStyle.OpeningHours.Core\bin\Debug\OriginalStyle.OpeningHours.Core.dll.config
+C:\Projects\Opening Hours\OriginalStyle.OpeningHours.Core\bin\Debug\OriginalStyle.OpeningHours.Core.dll
+C:\Projects\Opening Hours\OriginalStyle.OpeningHours.Core\bin\Debug\OriginalStyle.OpeningHours.Core.pdb
+C:\Projects\Opening Hours\OriginalStyle.OpeningHours.Core\bin\Debug\AutoMapper.dll
+C:\Projects\Opening Hours\OriginalStyle.OpeningHours.Core\bin\Debug\businesslogic.dll
+C:\Projects\Opening Hours\OriginalStyle.OpeningHours.Core\bin\Debug\ClientDependency.Core.dll
+C:\Projects\Opening Hours\OriginalStyle.OpeningHours.Core\bin\Debug\ClientDependency.Core.Mvc.dll
+C:\Projects\Opening Hours\OriginalStyle.OpeningHours.Core\bin\Debug\cms.dll
+C:\Projects\Opening Hours\OriginalStyle.OpeningHours.Core\bin\Debug\controls.dll
+C:\Projects\Opening Hours\OriginalStyle.OpeningHours.Core\bin\Debug\Examine.dll
+C:\Projects\Opening Hours\OriginalStyle.OpeningHours.Core\bin\Debug\HtmlAgilityPack.dll
+C:\Projects\Opening Hours\OriginalStyle.OpeningHours.Core\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Projects\Opening Hours\OriginalStyle.OpeningHours.Core\bin\Debug\ImageProcessor.dll
+C:\Projects\Opening Hours\OriginalStyle.OpeningHours.Core\bin\Debug\ImageProcessor.Web.dll
+C:\Projects\Opening Hours\OriginalStyle.OpeningHours.Core\bin\Debug\interfaces.dll
+C:\Projects\Opening Hours\OriginalStyle.OpeningHours.Core\bin\Debug\Log4Net.Async.dll
+C:\Projects\Opening Hours\OriginalStyle.OpeningHours.Core\bin\Debug\log4net.dll
+C:\Projects\Opening Hours\OriginalStyle.OpeningHours.Core\bin\Debug\Lucene.Net.dll
+C:\Projects\Opening Hours\OriginalStyle.OpeningHours.Core\bin\Debug\MarkdownSharp.dll
+C:\Projects\Opening Hours\OriginalStyle.OpeningHours.Core\bin\Debug\Microsoft.ApplicationBlocks.Data.dll
+C:\Projects\Opening Hours\OriginalStyle.OpeningHours.Core\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Projects\Opening Hours\OriginalStyle.OpeningHours.Core\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+C:\Projects\Opening Hours\OriginalStyle.OpeningHours.Core\bin\Debug\Microsoft.AspNet.SignalR.Core.dll
+C:\Projects\Opening Hours\OriginalStyle.OpeningHours.Core\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Projects\Opening Hours\OriginalStyle.OpeningHours.Core\bin\Debug\Microsoft.Owin.dll
+C:\Projects\Opening Hours\OriginalStyle.OpeningHours.Core\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+C:\Projects\Opening Hours\OriginalStyle.OpeningHours.Core\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+C:\Projects\Opening Hours\OriginalStyle.OpeningHours.Core\bin\Debug\Microsoft.Owin.Security.dll
+C:\Projects\Opening Hours\OriginalStyle.OpeningHours.Core\bin\Debug\Microsoft.Owin.Security.OAuth.dll
+C:\Projects\Opening Hours\OriginalStyle.OpeningHours.Core\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Projects\Opening Hours\OriginalStyle.OpeningHours.Core\bin\Debug\MiniProfiler.dll
+C:\Projects\Opening Hours\OriginalStyle.OpeningHours.Core\bin\Debug\MySql.Data.dll
+C:\Projects\Opening Hours\OriginalStyle.OpeningHours.Core\bin\Debug\Newtonsoft.Json.dll
+C:\Projects\Opening Hours\OriginalStyle.OpeningHours.Core\bin\Debug\Owin.dll
+C:\Projects\Opening Hours\OriginalStyle.OpeningHours.Core\bin\Debug\Semver.dll
+C:\Projects\Opening Hours\OriginalStyle.OpeningHours.Core\bin\Debug\SQLCE4Umbraco.dll
+C:\Projects\Opening Hours\OriginalStyle.OpeningHours.Core\bin\Debug\System.Data.SqlServerCe.dll
+C:\Projects\Opening Hours\OriginalStyle.OpeningHours.Core\bin\Debug\System.Data.SqlServerCe.Entity.dll
+C:\Projects\Opening Hours\OriginalStyle.OpeningHours.Core\bin\Debug\System.Net.Http.Formatting.dll
+C:\Projects\Opening Hours\OriginalStyle.OpeningHours.Core\bin\Debug\System.Threading.Tasks.Dataflow.dll
+C:\Projects\Opening Hours\OriginalStyle.OpeningHours.Core\bin\Debug\System.Web.Helpers.dll
+C:\Projects\Opening Hours\OriginalStyle.OpeningHours.Core\bin\Debug\System.Web.Http.dll
+C:\Projects\Opening Hours\OriginalStyle.OpeningHours.Core\bin\Debug\System.Web.Http.WebHost.dll
+C:\Projects\Opening Hours\OriginalStyle.OpeningHours.Core\bin\Debug\System.Web.Mvc.dll
+C:\Projects\Opening Hours\OriginalStyle.OpeningHours.Core\bin\Debug\System.Web.Razor.dll
+C:\Projects\Opening Hours\OriginalStyle.OpeningHours.Core\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Projects\Opening Hours\OriginalStyle.OpeningHours.Core\bin\Debug\System.Web.WebPages.dll
+C:\Projects\Opening Hours\OriginalStyle.OpeningHours.Core\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Projects\Opening Hours\OriginalStyle.OpeningHours.Core\bin\Debug\TidyNet.dll
+C:\Projects\Opening Hours\OriginalStyle.OpeningHours.Core\bin\Debug\Umbraco.Core.dll
+C:\Projects\Opening Hours\OriginalStyle.OpeningHours.Core\bin\Debug\umbraco.DataLayer.dll
+C:\Projects\Opening Hours\OriginalStyle.OpeningHours.Core\bin\Debug\umbraco.dll
+C:\Projects\Opening Hours\OriginalStyle.OpeningHours.Core\bin\Debug\umbraco.editorControls.dll
+C:\Projects\Opening Hours\OriginalStyle.OpeningHours.Core\bin\Debug\umbraco.MacroEngines.dll
+C:\Projects\Opening Hours\OriginalStyle.OpeningHours.Core\bin\Debug\umbraco.providers.dll
+C:\Projects\Opening Hours\OriginalStyle.OpeningHours.Core\bin\Debug\Umbraco.Web.UI.dll
+C:\Projects\Opening Hours\OriginalStyle.OpeningHours.Core\bin\Debug\UmbracoExamine.dll
+C:\Projects\Opening Hours\OriginalStyle.OpeningHours.Core\bin\Debug\AutoMapper.pdb
+C:\Projects\Opening Hours\OriginalStyle.OpeningHours.Core\bin\Debug\AutoMapper.xml
+C:\Projects\Opening Hours\OriginalStyle.OpeningHours.Core\bin\Debug\AutoMapper.Net4.pdb
+C:\Projects\Opening Hours\OriginalStyle.OpeningHours.Core\bin\Debug\businesslogic.xml
+C:\Projects\Opening Hours\OriginalStyle.OpeningHours.Core\bin\Debug\ClientDependency.Core.pdb
+C:\Projects\Opening Hours\OriginalStyle.OpeningHours.Core\bin\Debug\ClientDependency.Core.Mvc.pdb
+C:\Projects\Opening Hours\OriginalStyle.OpeningHours.Core\bin\Debug\cms.xml
+C:\Projects\Opening Hours\OriginalStyle.OpeningHours.Core\bin\Debug\controls.xml
+C:\Projects\Opening Hours\OriginalStyle.OpeningHours.Core\bin\Debug\Examine.pdb
+C:\Projects\Opening Hours\OriginalStyle.OpeningHours.Core\bin\Debug\HtmlAgilityPack.pdb
+C:\Projects\Opening Hours\OriginalStyle.OpeningHours.Core\bin\Debug\HtmlAgilityPack.xml
+C:\Projects\Opening Hours\OriginalStyle.OpeningHours.Core\bin\Debug\ImageProcessor.xml
+C:\Projects\Opening Hours\OriginalStyle.OpeningHours.Core\bin\Debug\ImageProcessor.Web.xml
+C:\Projects\Opening Hours\OriginalStyle.OpeningHours.Core\bin\Debug\interfaces.xml
+C:\Projects\Opening Hours\OriginalStyle.OpeningHours.Core\bin\Debug\Lucene.Net.xml
+C:\Projects\Opening Hours\OriginalStyle.OpeningHours.Core\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Projects\Opening Hours\OriginalStyle.OpeningHours.Core\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+C:\Projects\Opening Hours\OriginalStyle.OpeningHours.Core\bin\Debug\Microsoft.AspNet.SignalR.Core.xml
+C:\Projects\Opening Hours\OriginalStyle.OpeningHours.Core\bin\Debug\Microsoft.IO.RecyclableMemoryStream.pdb
+C:\Projects\Opening Hours\OriginalStyle.OpeningHours.Core\bin\Debug\Microsoft.Owin.xml
+C:\Projects\Opening Hours\OriginalStyle.OpeningHours.Core\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+C:\Projects\Opening Hours\OriginalStyle.OpeningHours.Core\bin\Debug\Microsoft.Owin.Security.xml
+C:\Projects\Opening Hours\OriginalStyle.OpeningHours.Core\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+C:\Projects\Opening Hours\OriginalStyle.OpeningHours.Core\bin\Debug\Microsoft.Owin.Security.OAuth.xml
+C:\Projects\Opening Hours\OriginalStyle.OpeningHours.Core\bin\Debug\MiniProfiler.pdb
+C:\Projects\Opening Hours\OriginalStyle.OpeningHours.Core\bin\Debug\MiniProfiler.xml
+C:\Projects\Opening Hours\OriginalStyle.OpeningHours.Core\bin\Debug\Newtonsoft.Json.xml
+C:\Projects\Opening Hours\OriginalStyle.OpeningHours.Core\bin\Debug\SQLCE4Umbraco.xml
+C:\Projects\Opening Hours\OriginalStyle.OpeningHours.Core\bin\Debug\System.Net.Http.Formatting.xml
+C:\Projects\Opening Hours\OriginalStyle.OpeningHours.Core\bin\Debug\System.Threading.Tasks.Dataflow.xml
+C:\Projects\Opening Hours\OriginalStyle.OpeningHours.Core\bin\Debug\System.Web.Helpers.xml
+C:\Projects\Opening Hours\OriginalStyle.OpeningHours.Core\bin\Debug\System.Web.Http.xml
+C:\Projects\Opening Hours\OriginalStyle.OpeningHours.Core\bin\Debug\System.Web.Http.WebHost.xml
+C:\Projects\Opening Hours\OriginalStyle.OpeningHours.Core\bin\Debug\System.Web.Mvc.xml
+C:\Projects\Opening Hours\OriginalStyle.OpeningHours.Core\bin\Debug\System.Web.Razor.xml
+C:\Projects\Opening Hours\OriginalStyle.OpeningHours.Core\bin\Debug\System.Web.WebPages.xml
+C:\Projects\Opening Hours\OriginalStyle.OpeningHours.Core\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Projects\Opening Hours\OriginalStyle.OpeningHours.Core\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Projects\Opening Hours\OriginalStyle.OpeningHours.Core\bin\Debug\umbraco.xml
+C:\Projects\Opening Hours\OriginalStyle.OpeningHours.Core\bin\Debug\Umbraco.Core.xml
+C:\Projects\Opening Hours\OriginalStyle.OpeningHours.Core\bin\Debug\umbraco.DataLayer.xml
+C:\Projects\Opening Hours\OriginalStyle.OpeningHours.Core\bin\Debug\umbraco.editorControls.xml
+C:\Projects\Opening Hours\OriginalStyle.OpeningHours.Core\bin\Debug\umbraco.MacroEngines.xml
+C:\Projects\Opening Hours\OriginalStyle.OpeningHours.Core\bin\Debug\umbraco.providers.xml
+C:\Projects\Opening Hours\OriginalStyle.OpeningHours.Core\bin\Debug\Umbraco.Web.UI.xml
+C:\Projects\Opening Hours\OriginalStyle.OpeningHours.Core\bin\Debug\UmbracoExamine.xml
+C:\Projects\Opening Hours\OriginalStyle.OpeningHours.Core\obj\Debug\OriginalStyle.OpeningHours.Core.csprojResolveAssemblyReference.cache
+C:\Projects\Opening Hours\OriginalStyle.OpeningHours.Core\obj\Debug\OriginalStyle.OpeningHours.Core.csproj.CoreCompileInputs.cache
+C:\Projects\Opening Hours\OriginalStyle.OpeningHours.Core\obj\Debug\OriginalStyle.OpeningHours.Core.dll
+C:\Projects\Opening Hours\OriginalStyle.OpeningHours.Core\obj\Debug\OriginalStyle.OpeningHours.Core.pdb

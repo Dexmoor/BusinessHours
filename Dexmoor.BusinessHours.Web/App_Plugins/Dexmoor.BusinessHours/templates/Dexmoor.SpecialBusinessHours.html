@@ -1,0 +1,33 @@
+<div ng-controller="Dexmoor.SpecialBusinessHours.controller" class="business-hours">
+  <div ng-repeat="d in model.value">
+    <div class="row date-row">
+      <dexmoor-date-picker class="span2" ng-model="d.date" os-date-picker-format="DD-MM-YYYY">
+      </dexmoor-date-picker>
+      <div class="span1">
+        <umb-toggle checked="d.isOpen" on-click="openCheck(d)">
+        </umb-toggle>
+
+      </div>
+      <div class="span1">
+        <label ng-show="d.isOpen">Open</label>
+        <label ng-show="!d.isOpen">Closed</label>
+      </div>
+      <div class="span3" ng-show="d.isOpen">
+        <div ng-repeat="oh in d.hoursOfBusiness" class="row time-row">
+          <dexmoor-time-picker class="span6" ng-model="oh.opensAt" default-time="08:00 am"></dexmoor-time-picker>
+          <dexmoor-time-picker class="span6" ng-model="oh.closesAt" default-time="05:00 pm"></dexmoor-time-picker>
+          <a class="btn deleteHours" ng-click="deleteHours($index, $parent.$index);">X</a>
+        </div>
+        <a class="btn btn-pad addHours" ng-click="addHours(d.hoursOfBusiness);">Add Hours</a>
+      </div>
+
+      <div class="span1" ng-show="d.isOpen">
+      </div>
+      <div class="span2">
+        <a class="btn" ng-click="deleteDate($index);">Delete</a>
+      </div>
+    </div>
+
+  </div>
+  <a class="btn" ng-click="addNewDate();">Add New Date</a>
+</div>

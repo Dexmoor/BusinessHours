@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2006
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dexmoor.BusinessHours.Web", "Dexmoor.BusinessHours.Web\Dexmoor.BusinessHours.Web.csproj", "{07B77D3A-8640-44F2-91F4-300199635B7D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dexmoor.BusinessHours.Core", "Dexmoor.BusinessHours.Core\Dexmoor.BusinessHours.Core.csproj", "{811DE326-3DDE-4871-945C-6632BC12E938}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{07B77D3A-8640-44F2-91F4-300199635B7D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{07B77D3A-8640-44F2-91F4-300199635B7D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{07B77D3A-8640-44F2-91F4-300199635B7D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{07B77D3A-8640-44F2-91F4-300199635B7D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{811DE326-3DDE-4871-945C-6632BC12E938}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{811DE326-3DDE-4871-945C-6632BC12E938}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{811DE326-3DDE-4871-945C-6632BC12E938}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{811DE326-3DDE-4871-945C-6632BC12E938}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {376F3B54-654B-4F77-94B2-6B51B346C43D}
+	EndGlobalSection
+EndGlobal

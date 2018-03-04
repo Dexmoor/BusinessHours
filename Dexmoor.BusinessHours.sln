@@ -1,11 +1,31 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
-VisualStudioVersion = 15.0.27004.2006
+VisualStudioVersion = 15.0.27130.2036
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dexmoor.BusinessHours.Web", "Dexmoor.BusinessHours.Web\Dexmoor.BusinessHours.Web.csproj", "{07B77D3A-8640-44F2-91F4-300199635B7D}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dexmoor.BusinessHours", "Dexmoor.BusinessHours.Core\Dexmoor.BusinessHours.csproj", "{811DE326-3DDE-4871-945C-6632BC12E938}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dexmoor.BusinessHours.Core", "Dexmoor.BusinessHours.Core\Dexmoor.BusinessHours.Core.csproj", "{811DE326-3DDE-4871-945C-6632BC12E938}"
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "Dexmoor.BusinessHours.Website", "Dexmoor.BusinessHours.Website\", "{F630A7AA-87A6-4E00-BBBB-CB768DF87114}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.5"
+		ProjectReferences = "{811de326-3dde-4871-945c-6632bc12e938}|Dexmoor.BusinessHours.dll;"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_51599"
+		Debug.AspNetCompiler.PhysicalPath = "Dexmoor.BusinessHours.Website\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_51599\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_51599"
+		Release.AspNetCompiler.PhysicalPath = "Dexmoor.BusinessHours.Website\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_51599\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "51599"
+		SlnRelativePath = "Dexmoor.BusinessHours.Website\"
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -13,14 +33,14 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{07B77D3A-8640-44F2-91F4-300199635B7D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{07B77D3A-8640-44F2-91F4-300199635B7D}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{07B77D3A-8640-44F2-91F4-300199635B7D}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{07B77D3A-8640-44F2-91F4-300199635B7D}.Release|Any CPU.Build.0 = Release|Any CPU
 		{811DE326-3DDE-4871-945C-6632BC12E938}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{811DE326-3DDE-4871-945C-6632BC12E938}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{811DE326-3DDE-4871-945C-6632BC12E938}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{811DE326-3DDE-4871-945C-6632BC12E938}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F630A7AA-87A6-4E00-BBBB-CB768DF87114}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F630A7AA-87A6-4E00-BBBB-CB768DF87114}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F630A7AA-87A6-4E00-BBBB-CB768DF87114}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{F630A7AA-87A6-4E00-BBBB-CB768DF87114}.Release|Any CPU.Build.0 = Debug|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

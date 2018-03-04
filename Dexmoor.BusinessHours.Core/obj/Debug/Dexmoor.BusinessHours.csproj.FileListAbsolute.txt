@@ -1,0 +1,8 @@
+D:\Packages\BusinessHours\Dexmoor.BusinessHours.Website\bin\AutoMapper.Net4.dll
+D:\Packages\BusinessHours\Dexmoor.BusinessHours.Website\bin\Dexmoor.BusinessHours.dll.config
+D:\Packages\BusinessHours\Dexmoor.BusinessHours.Website\bin\Dexmoor.BusinessHours.dll
+D:\Packages\BusinessHours\Dexmoor.BusinessHours.Website\bin\Dexmoor.BusinessHours.pdb
+D:\Packages\BusinessHours\Dexmoor.BusinessHours.Core\obj\Debug\Dexmoor.BusinessHours.csprojResolveAssemblyReference.cache
+D:\Packages\BusinessHours\Dexmoor.BusinessHours.Core\obj\Debug\Dexmoor.BusinessHours.csproj.CoreCompileInputs.cache
+D:\Packages\BusinessHours\Dexmoor.BusinessHours.Core\obj\Debug\Dexmoor.BusinessHours.dll
+D:\Packages\BusinessHours\Dexmoor.BusinessHours.Core\obj\Debug\Dexmoor.BusinessHours.pdb

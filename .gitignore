@@ -17,3 +17,6 @@
 
 # ImageProcessor DiskCache 
 **/App_Data/cache/
+
+
+/packages

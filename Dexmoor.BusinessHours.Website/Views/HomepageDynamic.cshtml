@@ -1,0 +1,54 @@
+﻿@inherits Umbraco.Web.Mvc.UmbracoTemplatePage
+@{
+    Layout = null;
+}
+
+@*Dynamic Business Hours Example*@
+<table>
+    <tbody>
+
+        @*CurrentPage.YourPropertyAlias*@
+        @foreach (var day in CurrentPage.BusinessHours)
+        {
+            <tr>
+                <td>@day.DayOfTheWeek</td>
+                <td>@day.IsOpen</td>
+                <td>
+                    @foreach (var openingHours in day.HoursOfBusiness)
+                    {
+                        <span>
+                            @openingHours.OpensAt @openingHours.ClosesAt
+                        </span>
+                        <br />
+                    }
+
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+@*dynamic Special Business Hours Example*@
+<table>
+    <tbody>
+        @*CurrentPage.YourPropertyAlias*@
+        @foreach (var day in CurrentPage.SpecialBusinessHours)
+    {
+        <tr>
+            <td>@day.Date.ToShortDateString()</td>
+            <td>@day.IsOpen</td>
+            <td>
+                @foreach (var openingHours in day.HoursOfBusiness)
+            {
+                <span>
+                    @openingHours.OpensAt @openingHours.ClosesAt
+                </span>
+                <br />
+        }
+
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
+

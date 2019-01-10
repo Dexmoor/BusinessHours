@@ -1,0 +1,32 @@
+<div ng-controller="Dexmoor.BusinessHours.controller" class="business-hours">
+    <div ng-repeat="d in model.value">
+        <div class="row date-row">
+            <div class="span2">
+                <label>{{d.dayoftheweek}}</label>
+            </div>
+            <div class="span1">
+                <umb-toggle checked="d.isOpen" on-click="openCheck(d)">
+                </umb-toggle>
+            </div>
+            <div class="span1">
+                <label ng-show="d.isOpen">Open</label>
+                <label ng-show="!d.isOpen">Closed</label>
+            </div>
+            <div class="span6" ng-show="d.isOpen">
+                <div ng-repeat="oh in d.hoursOfBusiness" class="row time-row">
+                    <dexmoor-time-picker style="float:left" class="span4" ng-model="oh.opensAt" default-time="{{model.config.defaultOpen}}" ng-time-format="{{model.config.timeFormat}}"></dexmoor-time-picker>
+                    <dexmoor-time-picker style="float:left" class="span4" ng-model="oh.closesAt" default-time="{{model.config.defaultClose}}}" ng-time-format="{{model.config.timeFormat}}"></dexmoor-time-picker>
+                    <a class="btn btn-pad span4 deleteHours" ng-click="deleteHours($index, $parent.$index);">X</a>
+                    <div style="clear:both; display:block;" ng-show="model.config.appointmentOnlyBoolean">
+                        <label>Appointment only</label>
+                        <umb-toggle style="float:left;" checked="oh.byAppointmentOnly" on-click="appointmentOnlySwitch(oh)">
+                        </umb-toggle>
+                    </div>
+
+                </div>
+                <a class="btn btn-pad addHours" ng-click="addHours(d.hoursOfBusiness);">Add Hours</a>
+            </div>
+        </div>
+
+    </div>
+</div>

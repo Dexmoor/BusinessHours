@@ -1,0 +1,131 @@
+{
+  "$schema": "http://json.schemastore.org/package.manifest",
+  "propertyEditors": [
+    {
+      "alias": "Dexmoor.SpecialBusinessHours",
+      "name": "[Dexmoor] Special Business Hours",
+      "editor": {
+        "view": "~/App_Plugins/Dexmoor.BusinessHours/propertyeditors/Dexmoor.SpecialBusinessHours.html",
+        "hideLabel": false,
+        "valueType": "JSON"
+      },
+      "prevalues": {
+        "fields": [
+
+          {
+            "label": "Time Format",
+            "description": "12/24 hour clock",
+            "key": "timeFormat",
+            "view": "radiobuttonlist",
+            "config": {
+              "prevalues": [
+                {
+                  "value": "12",
+                  "label": "12-hour clock"
+                },
+                {
+                  "value": "24",
+                  "label": "24-hour clock"
+                }
+              ]
+            }
+          },
+          {
+            "label": "Default Open Time",
+            "description": "Please enter as 'hh:mm' or 'hh:mm a'",
+            "key": "defaultOpen",
+            "view": "textstring"
+          },
+          {
+            "label": "Default Close Time",
+            "description": "Please enter as 'hh:mm' or 'hh:mm a'",
+            "key": "defaultClose",
+            "view": "textstring"
+          },
+          {
+            "label": "Show Appointment Only Checkbox",
+            "description": "",
+            "key": "appointmentOnlyBoolean",
+            "view": "boolean"
+          },
+          {
+            "label": "Remove Old Dates",
+            "description": "Remove Old Dates",
+            "key": "removeOldDates",
+            "view": "boolean"
+          }
+
+        ]
+      }
+    },
+    {
+      "alias": "Dexmoor.BusinessHours",
+      "name": "[Dexmoor] Business Hours",
+      "editor": {
+        "view": "~/App_Plugins/Dexmoor.BusinessHours/propertyeditors/Dexmoor.BusinessHours.html",
+        "hideLabel": false,
+        "valueType": "JSON"
+      },
+      "prevalues": {
+        "fields": [
+
+          {
+            "label": "Time Format",
+            "description": "12/24 hour clock",
+            "key": "timeFormat",
+            "view": "radiobuttonlist",
+            "config": {
+              "prevalues": [
+                {
+                  "value": "12",
+                  "label": "12-hour clock"
+                },
+                {
+                  "value": "24",
+                  "label": "24-hour clock"
+                }
+              ]
+
+            }
+          },
+          {
+            "label": "Default Open Time",
+            "description": "Please enter in choosen Time Format",
+            "key": "defaultOpen",
+            "view": "textstring"
+          },
+          {
+            "label": "Default Close Time",
+            "description": "Please enter in choosen Time Format",
+            "key": "defaultClose",
+            "view": "textstring"
+          },
+          {
+            "label": "Show Appointment Only Checkbox",
+            "description": "",
+            "key": "appointmentOnlyBoolean",
+            "view": "boolean"
+          },
+          {
+            "label": "Bank Holidays",
+            "description": "Show Bank Holidays Option",
+            "key": "showBankHoliday",
+            "view": "boolean"
+          }
+        ]
+      }
+    }
+  ],
+  "javascript": [
+    "~/App_Plugins/Dexmoor.BusinessHours/propertyeditors/Dexmoor.SpecialBusinessHours.controller.js",
+    "~/App_Plugins/Dexmoor.BusinessHours/propertyeditors/Dexmoor.BusinessHours.controller.js",
+    "~/App_Plugins/Dexmoor.BusinessHours/directives/Dexmoor.Datepicker.directive.js",
+    "~/App_Plugins/Dexmoor.BusinessHours/directives/Dexmoor.Timepicker.directive.js",
+    "~/umbraco/lib/moment/moment-with-locales.js",
+    "~/umbraco/lib/datetimepicker/bootstrap-datetimepicker.js"
+  ],
+  "css": [
+    "~/App_Plugins/Dexmoor.BusinessHours/css/Dexmoor.BusinessHours.css",
+    "~/umbraco/lib/datetimepicker/bootstrap-datetimepicker.min.css"
+  ]
+}

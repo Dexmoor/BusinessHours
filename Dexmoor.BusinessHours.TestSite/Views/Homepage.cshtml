@@ -1,47 +1,48 @@
 ﻿@inherits UmbracoViewPage<Homepage>
 
-    @*Modelsbuilder Business Hours Example*@
-    <table>
-        <tbody>
-            @foreach (var day in Model.BusinessHours)
-            {
+<h1>Modelsbuilder Business Hours Example</h1>
+<table>
+    <tbody>
+        @foreach (var day in Model.BusinessHours)
+        {
             <tr>
                 <td>@day.DayOfTheWeek</td>
-                <td>@day.IsOpen</td>
+                <td>@(day.IsOpen ? "Open" : "Closed")</td>
                 <td>
                     @foreach (var openingHours in day.HoursOfBusiness)
                     {
-                    <span>
-                        @openingHours.OpensAt @openingHours.ClosesAt
-                    </span>
-                    <br />
+                        <span>
+                            @openingHours.OpensAt @openingHours.ClosesAt @(openingHours.ByAppointmentOnly ? "Appointment Open":string.Empty)
+                        </span>
+                        <br />
                     }
 
                 </td>
             </tr>
-            }
-        </tbody>
-    </table>
+        }
+    </tbody>
+</table>
 
-    @*Modelsbuilder Special Business Hours Example*@
-    <table>
-        <tbody>
-            @foreach (var day in Model.SpecialBusinessHours)
-            {
-            <tr>
-                <td>@day.Date.ToShortDateString()</td>
-                <td>@day.IsOpen</td>
-                <td>
-                    @foreach (var openingHours in day.HoursOfBusiness)
-                    {
-                    <span>
-                        @openingHours.OpensAt @openingHours.ClosesAt
-                    </span>
+<h1>Modelsbuilder Special Business Hours Example</h1>
+
+<table>
+    <tbody>
+        @foreach (var day in Model.SpecialBusinessHours)
+        {
+        <tr>
+            <td>@day.Date.ToShortDateString()</td>
+            <td>@(day.IsOpen ? "Open" : "Closed")</td>
+            <td>
+                @foreach (var openingHours in day.HoursOfBusiness)
+                {
+                <span>
+                    @openingHours.OpensAt @openingHours.ClosesAt @(openingHours.ByAppointmentOnly ? "Appointment Open" : string.Empty)
+                </span>
                     <br />
-                    }
+                }
 
-                </td>
-            </tr>
-            }
-        </tbody>
-    </table>
+            </td>
+        </tr>
+        }
+    </tbody>
+</table>

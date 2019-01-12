@@ -16,7 +16,7 @@
                 <div ng-repeat="oh in d.hoursOfBusiness" class="row time-row">
                     <dexmoor-time-picker style="float:left" class="span4" ng-model="oh.opensAt" default-time="{{model.config.defaultOpen}}" ng-time-format="{{model.config.timeFormat}}"></dexmoor-time-picker>
                     <dexmoor-time-picker style="float:left" class="span4" ng-model="oh.closesAt" default-time="{{model.config.defaultClose}}}" ng-time-format="{{model.config.timeFormat}}"></dexmoor-time-picker>
-                    <a class="btn btn-pad span4 deleteHours" ng-click="deleteHours($index, $parent.$index);">X</a>
+                    <a class="btn btn-pad span3 deleteHours" ng-click="deleteHours($index, $parent.$index);"><span class="action">-</span> Hours</a>
                     <div style="clear:both; display:block;" ng-show="model.config.appointmentOnlyBoolean">
                         <label>Appointment only</label>
                         <umb-toggle style="float:left;" checked="oh.byAppointmentOnly" on-click="appointmentOnlySwitch(oh)">
@@ -24,7 +24,7 @@
                     </div>
 
                 </div>
-                <a class="btn btn-pad addHours" ng-click="addHours(d.hoursOfBusiness);">Add Hours</a>
+                <a class="btn btn-pad span3 addHours" ng-click="addHours(d.hoursOfBusiness);"><span class="action">+</span> Hours</a>
             </div>
         </div>
 

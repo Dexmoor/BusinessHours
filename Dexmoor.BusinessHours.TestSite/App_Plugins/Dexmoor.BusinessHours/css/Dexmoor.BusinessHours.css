@@ -14,10 +14,6 @@
   }
 
 
-  .business-hours .deleteHours {
-    float: right;
-  }
-
   .business-hours .umb-toggle__toggle{
     margin: 0.3em;
   }
@@ -25,3 +21,12 @@
   .business-hours .btn-pad {
     margin: 0.2em 0;
   }
+
+.business-hours .deleteDateBtn{
+    margin-left:0.3em;
+}
+
+.business-hours .action{
+    font-weight:800;
+    text-transform:uppercase;
+}

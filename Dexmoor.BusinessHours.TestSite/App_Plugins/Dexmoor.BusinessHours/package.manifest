@@ -49,8 +49,8 @@
             "view": "boolean"
           },
           {
-            "label": "Remove Old Dates",
-            "description": "Remove Old Dates",
+            "label": "Hide Old Dates",
+            "description": "Hide Old Dates",
             "key": "removeOldDates",
             "view": "boolean"
           }

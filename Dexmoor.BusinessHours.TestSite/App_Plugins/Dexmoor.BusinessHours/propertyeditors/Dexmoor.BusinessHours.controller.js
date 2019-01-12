@@ -61,16 +61,18 @@
             }
         }
         else {
-            if ($scope.model.config.showbankholiday === "0" && $scope.model.value.length === 8) {
+            if ($scope.model.config.showBankHoliday === "0" && $scope.model.value.length === 8) {
                 $scope.model.value.pop();
             }
-            else if ($scope.model.config.showbankholiday === "1" && $scope.model.value.length === 7) {
+            else if ($scope.model.config.showBankHoliday === "1" && $scope.model.value.length === 7) {
                 var newDate2 = angular.copy($scope.newDate);
                 newDate2.id = $scope.daysoftheweek[7].id;
                 newDate2.dayoftheweek = $scope.daysoftheweek[7].dotw;
                 $scope.model.value.push(newDate2);
             }
         }
+
+
 
         $scope.openCheck = function (date) {
             if (date.isOpen) {

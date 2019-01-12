@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using Umbraco.Core.Models.PublishedContent;
 using Umbraco.Core.PropertyEditors;
 
-namespace Dexmoor.BusinessHours.PropertyValueConvertors
+namespace Dexmoor.BusinessHours.PropertyValueConverters
 {
         [PropertyValueType(typeof(IEnumerable<ViewModels.DaysOfBusinessViewModel>))]
         [PropertyValueCache(PropertyCacheValue.All, PropertyCacheLevel.ContentCache)]
